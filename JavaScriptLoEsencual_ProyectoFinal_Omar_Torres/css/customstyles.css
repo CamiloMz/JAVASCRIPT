@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Kaushan+Script|Permanent+Marker');
+
+*{
+  padding: 0;
+  margin: 0;
+  color: rgb(13, 42, 38);
+  font-family: 'Kaushan Script', cursive;
+}
+
+
+.header{
+  background-color: rgb(213, 230, 228);
+  font-family: 'Amatic SC', cursive;
+}
+
+.option{
+  font-size: 1.5rem;
+}
+.title{
+  display: inline-block;
+  width: 70%;
+  margin: 0;
+  padding: 10px;
+  text-align: left;
+}
+
+.promedio{
+  width: 60%;
+  margin: 0 auto;
+  background-color: rgb(213, 230, 228);
+  font-family: 'Permanent Marker', cursive;
+}
+
+.text-prom{
+  font-size: 4em;
+  font-family: 'Kaushan Script', cursive;
+}
+.header{
+  min-height: 18vh;
+}
+.logo-img{
+  width: 10%;
+  display: inline;
+  float: left;
+  margin-left: 2vw;
+}
